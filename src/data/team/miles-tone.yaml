@@ -1,9 +1,9 @@
-id: miles-tone
-link: blog/author/miles-tone
-first_name: Miles
-last_name: Tone
+---
+id: keith-hardisty
+link: blog/author/keith-hardisty
+first_name: Keith
+last_name: Hardisty
 photo: images/miles-tone.jpg
-bio: >-
-  Aliquam vestibulum morbi blandit cursus risus at ultrices mi. Massa placerat
+bio: Aliquam vestibulum morbi blandit cursus risus at ultrices mi. Massa placerat
   duis ultricies lacus. Amet justo donec enim diam.
 type: person
