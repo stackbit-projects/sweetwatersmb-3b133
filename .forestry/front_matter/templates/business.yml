@@ -1,0 +1,28 @@
+---
+label: Business
+hide_body: true
+fields:
+- type: text
+  name: template
+  label: template
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: image
+  label: image
+- type: text
+  name: excerpt
+  label: excerpt
