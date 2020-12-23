@@ -8,21 +8,39 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
 - type: text
-  name: author
-  label: author
+  name: description
+  label: Description
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: Owners Name
 - type: list
   name: categories
   label: categories
+- name: website
+  type: text
+  config:
+    required: false
+  label: Website
+- name: phone
+  type: text
+  config:
+    required: false
+  label: Phone
+- name: email
+  type: text
+  config:
+    required: false
+  label: Email
+- type: datetime
+  name: date
+  label: date
 - type: list
   name: tags
   label: tags
 - type: text
   name: image
   label: image
-- type: text
-  name: excerpt
-  label: excerpt
