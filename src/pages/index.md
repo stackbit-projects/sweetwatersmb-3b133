@@ -85,6 +85,7 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
+    category: src/data/categories/tutorials.yaml
   - type: cta_section
     template: cta_section
     title: This Is A CTA
